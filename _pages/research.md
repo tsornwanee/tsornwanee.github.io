@@ -7,9 +7,7 @@ author_profile: true
 
 Reinforcement Learning
 ======
-placeholder
-<!-- <a href="https://arxiv.org/abs/2407.12178" style="text-decoration: none;">Exploration Unbound</a>.<br />
-Dilip Arumugam\*, Wanqiao Xu\*, and Benjamin Van Roy.<br /> -->
+[Reinforced Social Learning](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565), Thanawat Sornwanee, presented at INFORMS Annual Meeting 2024
 
 
 \**Author names in alphabetical order*
