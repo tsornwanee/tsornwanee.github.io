@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wanqiao Xu"
+title                    : "Thanawat Sornwanee"
 title_separator          : "-"
-name                     : &name "Wanqiao Xu"
+name                     : &name "Thanawat Sornwanee"
 description              : &description "personal website"
-url                      : https://wanqiaox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tsornwanee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wanqiaox/wanqiaox.github.io"
+repository               : "tsornwanee/tsornwanee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wanqiao Xu"
+  name             : "Thanawat Sornwanee"
   avatar           : "profile.png"
-  bio              : "PhD Student, Stanford MS&E"
+  bio              : "PhD Student, Stanford GSB (EAP)"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "wanqiaoxu@stanford.edu"
+  email            : "tsornwanee@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
