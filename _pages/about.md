@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Wanqiao Xu"
+excerpt: "Thanawat Sornwanee"
 author_profile: true
 redirect_from: 
   - /about/
