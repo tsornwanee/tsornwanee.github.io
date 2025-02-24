@@ -11,8 +11,9 @@ redirect_from:
 
 About Me
 ======
-HI
-I'm a fourth-year Ph.D. student at Stanford University. I am fortunate to be advised by [Prof. Benjamin Van Roy](https://web.stanford.edu/~bvr/index.html). Previously, I received a B.S. degree in honors mathematics with a minor in computer science from the University of Michigan. During my undergraduate years, I had the pleasure of working with [Prof. Hamsa Bastani](https://hamsabastani.github.io/), [Prof. Osbert Bastani](https://obastani.github.io/), and [Prof. Ruiwei Jiang](https://sites.google.com/site/ruiweijianguf/). 
+I'm a first-year Ph.D. student at Stanford University. 
+
+Previously, I received an M.S. degree in comptational and mathematical engineering (ICME) and a B.S. degree in symbolics system (with honors) from Stanford University. During my undergraduate years, I had the pleasure of working with [Prof. Kwabena Boahen](https://hamsabastani.github.io/), [Prof. Nima Anari](https://obastani.github.io/), [Prof. Yuliy Sannikov](https://sites.google.com/site/ruiweijianguf/). 
 
 Research Interests
 ======
