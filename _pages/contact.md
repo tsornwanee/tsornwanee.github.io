@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-475 Via Ortega (Jen-Hsun Huang Engineering Center)
+655 Knight Way (Knight Management Center)
 
-Email: wanqiaoxu [at] stanford.edu
+Email: tsornwan [at] stanford.edu
