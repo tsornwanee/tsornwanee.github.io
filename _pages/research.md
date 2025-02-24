@@ -7,9 +7,9 @@ author_profile: true
 
 Reinforcement Learning
 ======
-[Reinforced Social Learning](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565) presented at INFORMS Annual Meeting 2024\nThanawat Sornwanee
+
 <details>
-  <summary>Collapsed by default</summary>
+  <summary>[Reinforced Social Learning](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565) presented at INFORMS Annual Meeting 2024\nThanawat Sornwanee</summary>
   This section was collapsed by default!
 </details>
 
