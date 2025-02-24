@@ -25,4 +25,4 @@ Professional Experience
 
 Contact
 ======
-Email: wanqiaoxu [at] stanford.edu
+Email: tsornwanee [at] stanford.edu
