@@ -18,7 +18,7 @@ Previously, I received an M.S. degree in comptational and mathematical engineeri
 
 Research Interests
 ======
-My research interest primarily lies in economic theory.
+My research interest primarily lies in economic theory and design.
 
 
 Contact
