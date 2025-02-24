@@ -9,7 +9,7 @@ Reinforcement Learning
 ======
 
 <details>
-  <summary>[Reinforced Social Learning](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565) presented at INFORMS Annual Meeting 2024\nThanawat Sornwanee</summary>
+  <summary>[Reinforced Social Learning](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565) presented at INFORMS Annual Meeting 2024 <br>Thanawat Sornwanee</summary>
   This section was collapsed by default!
 </details>
 
