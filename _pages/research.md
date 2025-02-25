@@ -10,7 +10,7 @@ Reinforcement Learning
 
 <details>
   <summary>
-    <a href="https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565" style="text-decoration: none;">Reinforced Social Learning</a>, presented at **INFORMS Annual Meeting 2024**.<br />
+    <a href="https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565" style="text-decoration: none;">Reinforced Social Learning</a>, presented at INFORMS Annual Meeting 2024.<br />
 Thanawat Sornwanee.<br />
   </summary>
   This section was collapsed by default!
