@@ -24,7 +24,7 @@ Thanawat Sornwanee.<br />
   Abstract: I present a knowledge-free mechanism to ensure the zero asymptotic average regret in a sequential social learning framework with binary state of the world and homogeneous preference. This mechanism also ensures that the state of the world can be asymptotically learned, regardless of the choice of Nash equilibrium employed. The asymptotic optimality of the mechanism will also shown to be preserved under different economic scenarios, such as when each agent may be blinded from the history of actions and/or received a utility shock.<br />
 </details>
 
-
+<br />
 
 Teaching & Services
 ======
