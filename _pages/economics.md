@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Economics"
 permalink: /economics/
 author_profile: true
 ---
