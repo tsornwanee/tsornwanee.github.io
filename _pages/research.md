@@ -13,7 +13,7 @@ Social Learning
     <a href="https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565" style="text-decoration: none;">Reinforced Social Learning</a>, presented at INFORMS Annual Meeting 2024.<br />
 Thanawat Sornwanee.<br />
   </summary>
-  I present a knowledge-free mechanism to ensure the zero asymptotic average regret in a sequential social learning framework with binary state of the world and homogeneous preference. This mechanism also ensures that the state of the world can be asymptotically learned, regardless of the choice of Nash equilibrium employed. The asymptotic optimality of the mechanism will also shown to be preserved under different economic scenarios, such as when each agent may be blinded from the history of actions and/or received a utility shock.
+  <img width="674" alt="Screenshot 2025-03-01 at 1 48 20 AM" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740" />
 </details>
 
 
