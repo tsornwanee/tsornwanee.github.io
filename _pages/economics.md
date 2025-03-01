@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /economics/
 author_profile: true
 ---
 
-Social Learning
+Social Economics
 ======
 
 <details>
