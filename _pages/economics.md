@@ -5,7 +5,7 @@ permalink: /economics/
 author_profile: true
 ---
 
-Social Economics
+Working Papers
 ======
 
 <details>
