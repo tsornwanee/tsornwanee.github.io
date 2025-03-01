@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Reinforcement Learning
+Social Learning
 ======
 
 <details>
