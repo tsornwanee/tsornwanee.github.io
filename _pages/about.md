@@ -13,7 +13,7 @@ About Me
 ======
 I'm a first-year Ph.D. student at Stanford University. 
 
-Previously, I received an M.S. degree in comptational and mathematical engineering (ICME) and a B.S. degree in symbolics system (with honors) from Stanford University. During my undergraduate years, I had the pleasure of working with [Prof. Kwabena Boahen](https://web.stanford.edu/group/brainsinsilicon/people/kwabena-boahen/), [Prof. Nima Anari](https://nimaanari.com), and [Prof. Sophie H. Yu](https://sophieyu.me). I am also honored to have [Prof. Yuliy Sannikov](https://www.gsb.stanford.edu/faculty-research/faculty/yuliy-sannikov) as the advisor and [Prof. Robert Wilson](https://gsb-faculty.stanford.edu/robert-wilson/) as the second reader for my undergraduate thesis. 
+Previously, I received an M.S. degree in comptational and mathematical engineering (ICME) and a B.S. degree in symbolic systems (with honors) from Stanford University. During my undergraduate years, I had the pleasure of working with [Prof. Kwabena Boahen](https://web.stanford.edu/group/brainsinsilicon/people/kwabena-boahen/), [Prof. Nima Anari](https://nimaanari.com), and [Prof. Sophie H. Yu](https://sophieyu.me). I am also honored to have [Prof. Yuliy Sannikov](https://www.gsb.stanford.edu/faculty-research/faculty/yuliy-sannikov) as the advisor and [Prof. Robert Wilson](https://gsb-faculty.stanford.edu/robert-wilson/) as the second reader for my undergraduate thesis. 
 
 
 Research Interests
