@@ -5,7 +5,7 @@ permalink: /economics/
 author_profile: true
 ---
 
-I'm a first-year Ph.D. student at Stanford University in Economic Analysis & Policy group. 
+I'm a first-year Ph.D. student in Economic Analysis & Policy group at Stanford Graduate School of Business (GSB). 
 
 Previously, I received an M.S. degree in Computational and Mathematical Engineering (ICME) and a B.S. degree in Symbolic Systems (with honors) from Stanford University. I am  honored to have [Prof. Yuliy Sannikov](https://www.gsb.stanford.edu/faculty-research/faculty/yuliy-sannikov) as the advisor and [Prof. Robert Wilson](https://gsb-faculty.stanford.edu/robert-wilson/) as the second reader for my undergraduate thesis. 
 
