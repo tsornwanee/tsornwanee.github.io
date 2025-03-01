@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Economics Analysis & Policy"
+title: ""
 permalink: /economics/
 author_profile: true
 ---
