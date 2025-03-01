@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Economics"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
