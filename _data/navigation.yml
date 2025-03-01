@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  #- title: "Economics"
-  #  url: /economics/    
+  - title: "Economics"
+    url: /economics/    
 
   # - title: "Miscellaneous"
   #   url: /miscellaneous/
