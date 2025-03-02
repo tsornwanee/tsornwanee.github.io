@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Business Administration, Stanford Graduate School of Business, 2029 (expected)
+* M.S. in Computational and Mathematical Engineering, Stanford University, 2024
+* B.S. in Symbolic Systems with Honors, Stanford University, 2024
 
 Work experience
 ======
