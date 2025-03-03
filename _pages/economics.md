@@ -5,7 +5,7 @@ permalink: /economics/
 author_profile: true
 ---
 
-I'm a first-year Ph.D. student in Economic Analysis & Policy group at Stanford Graduate School of Business (GSB). 
+I'm a first-year Ph.D. student in Economic Analysis & Policy group at Stanford Graduate School of Business (GSB) with PhD minor in Electrical Engineering. My PhD fields are in Advanced Theory, Advanced Econometrics, and Market Design.
 
 Previously, I received an M.S. degree in Computational and Mathematical Engineering (ICME) and a B.S. degree in Symbolic Systems (with honors) from Stanford University. I am  honored to have [Prof. Yuliy Sannikov](https://www.gsb.stanford.edu/faculty-research/faculty/yuliy-sannikov) as the advisor and [Prof. Robert Wilson](https://gsb-faculty.stanford.edu/robert-wilson/) as the second reader for my undergraduate thesis. 
 
@@ -38,6 +38,12 @@ Grading:
 * [Stanford MS&E 232: Introduction to Game Theory](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20232024&q=MS%26E232)
 * [Stanford EE 392F: Large-Scale Convex Optimization: Algorithms and Analyses via Monotone Operators](https://ernestryu.com/courses/lsopt.html)
 
+
+Awards
+======
+- Gold Medal, International Physics Olympiad (50th IPhO, Tel Aviv, Israel) [2019]
+- Honorable Mentions, Asian Earth Science Olympiad (18th & 19th APhO, Yakutsk, Russia & Hanoi, Vietnam) [2017, 2018]
+- Bronze Medal, International Earth Science Olympiad (10th IESO, Mie, Japan) [2016]
 
 Contact
 ======
