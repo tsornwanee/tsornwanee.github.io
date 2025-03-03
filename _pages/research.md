@@ -13,7 +13,7 @@ Social Learning
     <a href="https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565" style="text-decoration: none;"><b>Reinforced Social Learning</b></a>, presented at INFORMS Annual Meeting 2024.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="254" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
+  <img display="block" margin="auto" width="254" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
 </details>
 
 
