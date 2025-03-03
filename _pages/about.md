@@ -24,7 +24,6 @@ My research interest primarily lies in reinforcement learning. I aspire to desig
 Awards
 ======
 - Gold Medal, International Physics Olympiad (50th IPhO, Tel Aviv, Israel) [2019]
-- Honorable Mentions, Asian Physics Olympiad (18th & 19th APhO, Yakutsk, Russia & Hanoi, Vietnam) [2017, 2018]
 - Bronze Medal, International Earth Science Olympiad (10th IESO, Mie, Japan) [2016]
 
 
