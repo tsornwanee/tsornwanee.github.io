@@ -18,7 +18,15 @@ Previously, I received an M.S. degree in Computational and Mathematical Engineer
 
 Research Interests
 ======
-My research interest primarily lies in economic theory and design.
+My research interest primarily lies in reinforcement learning. I aspire to design agents that learn to make decisions efficiently under complex, dynamic environments as well as to design an incentive scheme facilittating such learning. I am also passionate about principled machine learning and physics-inspired machine learning.
+
+
+Awards
+======
+Gold Medal, International Physics Olympiad (50th IPhO, Tel Aviv, Israel) [2019]
+Honorable Mentions, Asian Physics Olympiad (18th & 19th APhO, Yakutsk, Russia & Hanoi, Vietnam) [2017, 2018]
+Bronze Medal, International Earth Science Olympiad (10th IESO, Mie, Japan) [2016]
+
 
 
 Contact
