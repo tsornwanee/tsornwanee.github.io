@@ -33,10 +33,10 @@ Summer 2023: Workshop Assistant: [Stanford ICME Workshop, Data Visualization](ht
 Autumn 2022: Teaching Assistant: [Stanford MS&E 339: Algorithms for Decntralized Finance](https://web.stanford.edu/~ashishg/msande339/)
 
 Grading:
-* [MGTECON 200: Managerial Economics](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=MGTECON200)
-* [ECON 202: Microeconomics I](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=ECON202)
-* [MS&E 232: Introduction to Game Theory](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20232024&q=MS%26E232)
-* [EE 392F: Large-Scale Convex Optimization: Algorithms and Analyses via Monotone Operators](https://ernestryu.com/courses/lsopt.html)
+* [Stanford MGTECON 200: Managerial Economics](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=MGTECON200)
+* [Stanford ECON 202: Microeconomics I](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=ECON202)
+* [Stanford MS&E 232: Introduction to Game Theory](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20232024&q=MS%26E232)
+* [Stanford EE 392F: Large-Scale Convex Optimization: Algorithms and Analyses via Monotone Operators](https://ernestryu.com/courses/lsopt.html)
 
 
 Contact
