@@ -12,8 +12,9 @@ Estimation & Inference
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, accepted for ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
 ....<br />
   </summary>
-  <img width="274" alt="Score-Debiased KDE" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
+  <img width="211" alt="Ox" src="https://github.com/user-attachments/assets/005721a6-625f-4f81-9ec6-71c51fbbbbb4" />
 </details>
+
 
 
 Social Learning
