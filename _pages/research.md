@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Inference
+Estimation & Inference
 ======
 <details>
   <summary>
