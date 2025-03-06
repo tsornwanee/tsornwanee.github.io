@@ -9,7 +9,7 @@ Inference
 ======
 <details>
   <summary>
-    <a href="https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565" style="text-decoration: none;">Reinforced Social Learning</a>, presented at INFORMS Annual Meeting 2024.<br />
+    <a href="/placeholder.txt" style="text-decoration: none;">Reinforced Social Learning</a>, presented at INFORMS Annual Meeting 2024.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
