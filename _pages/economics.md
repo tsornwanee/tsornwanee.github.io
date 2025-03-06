@@ -18,6 +18,13 @@ Working Papers
 ======
 <details>
   <summary>
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, accepted for ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
+<b>Thanawat Sornwanee</b>, Elliot Epstein, Rajat Dwaraknath, Jerry Liu, and John Winnicki.<br />
+  </summary>
+  Abstract: We propose a novel method for density estimation that leverages an estimated score function to debias kernel density estimation (SD-KDE). In our approach, each data point is adjusted by taking a single step along the score function with a specific choice of step size, followed by standard KDE with a modified bandwidth. The step size and modified bandwidth are chosen to remove the leading order bias in the KDE. Our experiments on synthetic tasks in 1D, 2D and on MNIST, demonstrate that our proposed SD-KDE method significantly reduces the mean integrated squared error compared to the standard Silverman KDE, even with noisy estimates in the score function. These results underscore the potential of integrating score-based corrections into nonparametric density estimation.
+</details>
+<details>
+  <summary>
     <a href="https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2565" style="text-decoration: none;">Reinforced Social Learning</a>, presented at INFORMS Annual Meeting 2024.<br />
 Thanawat Sornwanee.<br />
   </summary>
