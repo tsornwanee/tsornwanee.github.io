@@ -7,4 +7,4 @@ author_profile: true
 
 This is a mere placeholder. The link will be updated soon!
 ---
-<img width="211" alt="Ox" src="https://github.com/user-attachments/assets/005721a6-625f-4f81-9ec6-71c51fbbbbb4" />
+<img width="511" alt="Ox" src="https://github.com/user-attachments/assets/005721a6-625f-4f81-9ec6-71c51fbbbbb4" />
