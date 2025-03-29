@@ -11,9 +11,6 @@ Estimation & Inference
   <summary>
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, accepted for ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
 <b>Thanawat Sornwanee</b>, Rajat Dwaraknath, Elliot Epstein, Jerry Liu, and John Winnicki.<br />
-  <ul>
-    <li>presented at workshop on Experimental Design: AI for Science</li>
-  </ul>
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
