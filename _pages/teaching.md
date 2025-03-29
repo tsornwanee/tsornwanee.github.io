@@ -8,8 +8,11 @@ Summer 2023: Workshop Assistant: [Stanford ICME Workshop, Data Visualization](ht
 
 Autumn 2022: Teaching Assistant: [Stanford MS&E 339: Algorithms for Decntralized Finance](https://web.stanford.edu/~ashishg/msande339/)(Taught by [Prof. Ashish Goel](https://web.stanford.edu/~ashishg/))
 
-<!-- - <a href="https://web.stanford.edu/class/msande338/" style="text-decoration: none;">Reinforcement Learning, MS&E 338</a>. Spring 2023.  -->
-
+Talks
+---
+2025
+--
+- k
 <!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
