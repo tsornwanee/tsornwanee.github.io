@@ -8,11 +8,13 @@ Summer 2023: Workshop Assistant: [Stanford ICME Workshop, Data Visualization](ht
 
 Autumn 2022: Teaching Assistant: [Stanford MS&E 339: Algorithms for Decntralized Finance](https://web.stanford.edu/~ashishg/msande339/)(Taught by [Prof. Ashish Goel](https://web.stanford.edu/~ashishg/))
 
-Talks
+Presentation
 ---
-2025
---
-- k
+**2025**
+  - ICLR 2025 Workshop, Frontiers in Probabilistic Inference: Sampling Meets Learning, Singapore
+  - Workshop on Experimental Design: AI for Science, Stanford, California
+**2024**
+  - INFORMS Annual Meeting 2024, Seattle, Washington
 <!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
