@@ -13,6 +13,7 @@ Presentation
 **2025**
   - ICLR 2025 Workshop, Frontiers in Probabilistic Inference: Sampling Meets Learning, Singapore
   - Workshop on Experimental Design: AI for Science, Stanford, California
+
 **2024**
   - INFORMS Annual Meeting 2024, Seattle, Washington
 <!-- {% include base_path %}
