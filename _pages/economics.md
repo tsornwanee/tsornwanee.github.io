@@ -52,6 +52,16 @@ Awards
 - Honorable Mentions, Asian Earth Science Olympiad (18th & 19th APhO, Yakutsk, Russia & Hanoi, Vietnam) [2017, 2018]
 - Bronze Medal, International Earth Science Olympiad (10th IESO, Mie, Japan) [2016]
 
+Talks & Presentations
+======
+**2025**
+  - ICLR 2025 Workshop, Frontiers in Probabilistic Inference: Sampling Meets Learning, Singapore
+  - Workshop on Experimental Design: AI for Science, Stanford, California
+
+**2024**
+  - INFORMS Annual Meeting 2024, Seattle, Washington
+
+
 Contact
 ======
 Email: tsornwanee [at] stanford.edu
