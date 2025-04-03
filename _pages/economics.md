@@ -55,11 +55,11 @@ Awards
 Talks & Presentations
 ======
 **2025**
-  - ICLR 2025 Workshop, Frontiers in Probabilistic Inference: Sampling Meets Learning, Singapore
-  - Workshop on Experimental Design: AI for Science, Stanford, California
+  - "Score-Debiased Kernel Density Estimation" ICLR 2025 Workshop, Frontiers in Probabilistic Inference: Sampling Meets Learning, Singapore
+  - "Score-Debiased Kernel Density Estimation" Workshop on Experimental Design: AI for Science, Stanford, California
 
 **2024**
-  - INFORMS Annual Meeting 2024, Seattle, Washington
+  - "Reinforced Social Learning" INFORMS Annual Meeting 2024, Seattle, Washington
 
 
 Contact
