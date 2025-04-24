@@ -9,7 +9,7 @@ Estimation & Inference
 ======
 <details>
   <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
+    <a href="https://drive.google.com/file/d/189ZEn_-6lvtbOs2RshuqDaohWjQ1HITg/view?usp=sharing" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
 Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
