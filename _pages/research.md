@@ -5,28 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Diffusion
-======
-
-<details>
-  <summary>
-    -
-  </summary>
-  -
-</details>
-
-Competitive Equilibrium
-======
-
-<details>
-  <summary>
-    -
-  </summary>
-  -
-</details>
-
-
-
 Social Learning
 ======
 
