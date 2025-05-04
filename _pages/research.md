@@ -5,17 +5,27 @@ permalink: /research/
 author_profile: true
 ---
 
-Estimation & Inference
+Diffusion
 ======
+
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
-Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
+    -
   </summary>
-  <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
+  -
 </details>
 
-<br />
+Competitive Equilibrium
+======
+
+<details>
+  <summary>
+    -
+  </summary>
+  -
+</details>
+
+
 
 Social Learning
 ======
@@ -26,6 +36,18 @@ Social Learning
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
+</details>
+
+<br />
+
+Estimation & Inference
+======
+<details>
+  <summary>
+    <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
+Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
+  </summary>
+  <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
 
 
