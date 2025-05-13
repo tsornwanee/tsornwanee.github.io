@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+Competitive Equilibrium
+======
+<details>
+  <summary>
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">1-Dimensional Normal Competitive Market Equilibrium</a><br />
+<b>Thanawat Sornwanee</b>.<br />
+  </summary>
+  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+</details>
+
 Social Learning
 ======
 
