@@ -5,6 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
+Estimation & Inference
+======
+<details>
+  <summary>
+    <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Frontiers in Probabilistic Inference Workshop 2025.<br />
+Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
+  </summary>
+  <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
+</details>
+
+<br />
+
 Social Learning
 ======
 
@@ -18,17 +30,7 @@ Social Learning
 
 <br />
 
-Estimation & Inference
-======
-<details>
-  <summary>
-    <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Frontiers in Probabilistic Inference Workshop 2025.<br />
-Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
-  </summary>
-  <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
-</details>
-
-Competitive Limit
+Competitive Analysis
 ======
 <details>
   <summary>
