@@ -5,16 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Competitive Equilibrium
-======
-<details>
-  <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">1-Dimensional Normal Competitive Market Equilibrium</a><br />
-<b>Thanawat Sornwanee</b>.<br />
-  </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
-</details>
-
 Social Learning
 ======
 
@@ -36,6 +26,16 @@ Estimation & Inference
 Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
+</details>
+
+Competitive Limit
+======
+<details>
+  <summary>
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">1-Dimensional Normal Competitive Market Equilibrium</a><br />
+<b>Thanawat Sornwanee</b>.<br />
+  </summary>
+  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
 </details>
 
 
