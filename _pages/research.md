@@ -10,7 +10,7 @@ Estimation & Inference
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Frontiers in Probabilistic Inference Workshop 2025.<br />
-Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
+Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki, and Jerry Weihong Liu.<br />
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
@@ -34,7 +34,7 @@ Competitive Analysis
 ======
 <details>
   <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">1-Dimensional Normal Competitive Market Equilibrium</a><br />
+    <a href="https://arxiv.org/abs/2505.08425" style="text-decoration: none;">1-Dimensional Normal Competitive Market Equilibrium</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
