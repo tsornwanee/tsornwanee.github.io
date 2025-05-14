@@ -5,7 +5,7 @@ permalink: /economics/
 author_profile: true
 ---
 
-I'm a first-year Ph.D. student in Economic Analysis & Policy group at Stanford Graduate School of Business (GSB) with PhD minor in Electrical Engineering. My PhD fields are in Advanced Theory, Advanced Econometrics, and Market Design.
+I'm a first-year Ph.D. student in Economic Analysis & Policy group at Stanford Graduate School of Business (GSB) with Ph.D. minor in Electrical Engineering. My Ph.D. fields are in Advanced Theory, Advanced Econometrics, and Market Design.
 
 Previously, I received an M.S. degree in Computational and Mathematical Engineering (ICME) and a B.S. degree in Symbolic Systems (with honors) from Stanford University. I am  honored to have [Prof. Yuliy Sannikov](https://www.gsb.stanford.edu/faculty-research/faculty/yuliy-sannikov) as the advisor and [Prof. Robert Wilson](https://gsb-faculty.stanford.edu/robert-wilson/) as the second reader for my undergraduate thesis. 
 
@@ -16,9 +16,17 @@ Economic Theory
 
 Working Papers
 ======
+
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Workshop 2025 (Frontiers in Probabilistic Inference).<br />
+    <a href="https://arxiv.org/abs/2505.08425" style="text-decoration: none;">1-Dimensional Normal Competitive Market Equilibrium</a><br />
+<b>Thanawat Sornwanee</b>.<br />
+  </summary>
+  Abstract: We introduce a new microeconomics foundation of a specific type of competitive market equilibrium that can be used to study several markets with information asymmetry such as commodity market, credit market, and insurance market.
+</details>
+<details>
+  <summary>
+    <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">Score-Debiased Kernel Density Estimation</a>, presented at ICLR Frontiers in Probabilistic Inference Workshop 2025.<br />
 Elliot L. Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, Jerry Liu, and John Winnicki.<br />
   </summary>
   Abstract: We propose a novel method for density estimation that leverages an estimated score function to debias kernel density estimation (SD-KDE). In our approach, each data point is adjusted by taking a single step along the score function with a specific choice of step size, followed by standard KDE with a modified bandwidth. The step size and modified bandwidth are chosen to remove the leading order bias in the KDE. Our experiments on synthetic tasks in 1D, 2D and on MNIST, demonstrate that our proposed SD-KDE method significantly reduces the mean integrated squared error compared to the standard Silverman KDE, even with noisy estimates in the score function. These results underscore the potential of integrating score-based corrections into nonparametric density estimation.
