@@ -63,6 +63,8 @@ Awards
 Talks & Presentations
 ======
 **2025**
+  - "Robust Bandit Learning with Delegation" EC 2025 Workshop, Online Learning and Economics, Stanford, California
+  - "Matching and Pricing on a Tree" EC 2025 Poster, Stanford, California
   - "Score-Debiased Kernel Density Estimation" ICLR 2025 Workshop, Frontiers in Probabilistic Inference: Sampling Meets Learning, Singapore
   - "Score-Debiased Kernel Density Estimation" Workshop on Experimental Design: AI for Science, Stanford, California
 
