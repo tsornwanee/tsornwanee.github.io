@@ -31,6 +31,19 @@ Mechanism Design
 
 <br />
 
+Alignment
+======
+
+<details>
+  <summary>
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Aligning Rational Superintelligences through Debate: A Game-Theoretic Framework</a>, will be presented at EC Human-Algorithm Collaboration Workshop 2025.<br />
+<b>Thanawat Sornwanee</b>.<br />
+  </summary>
+  <<img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+</details>
+
+<br />
+
 Estimation & Inference
 ======
 <details>
