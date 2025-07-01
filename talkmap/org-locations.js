@@ -10,6 +10,11 @@ var addressPoints = [
     103.9595
   ],
   [
+    "Stanford CA, USA",
+    37.4277,
+    -122.1701
+  ],
+  [
     "Seattle WA, USA",
     47.6118,
     -122.3314
