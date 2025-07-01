@@ -9,6 +9,7 @@ I'm a first-year Ph.D. student in Economic Analysis & Policy group at Stanford G
 
 Previously, I received an M.S. degree in Computational and Mathematical Engineering (ICME) and a B.S. degree in Symbolic Systems (with honors) from Stanford University. I am  honored to have [Prof. Yuliy Sannikov](https://www.gsb.stanford.edu/faculty-research/faculty/yuliy-sannikov) as the advisor and [Prof. Robert Wilson](https://gsb-faculty.stanford.edu/robert-wilson/) as the second reader for my undergraduate thesis. 
 
+ธนวัฒน์ ศรวณีย์
 
 Research Interests
 ======
@@ -71,7 +72,7 @@ Talks & Presentations
 **2024**
   - "Reinforced Social Learning" INFORMS Annual Meeting 2024, Seattle, Washington
 
-
+ 
 Contact
 ======
 Email: tsornwanee [at] stanford.edu
