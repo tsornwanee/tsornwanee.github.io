@@ -64,6 +64,7 @@ Awards
 Talks & Presentations
 ======
 **2025**
+  - "Aligning Rational Superintelligences through Debate: A Game-Theoretic Framework" EC 2025 Workshop, Human-AI Collaboration, Stanford, California
   - "Robust Bandit Learning with Delegation" EC 2025 Workshop, Online Learning and Economics, Stanford, California
   - "Matching and Pricing on a Tree" EC 2025 Poster, Stanford, California
   - "Score-Debiased Kernel Density Estimation" ICLR 2025 Workshop, Frontiers in Probabilistic Inference: Sampling Meets Learning, Singapore

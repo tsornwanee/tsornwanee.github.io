@@ -8,3 +8,4 @@ author_profile: true
 655 Knight Way (Knight Management Center)
 
 Email: tsornwanee [at] stanford.edu
+Names: ธนวัฒน์ ศรวณีย์, Thanawat Sornwanee
