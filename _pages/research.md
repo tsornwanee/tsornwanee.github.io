@@ -13,7 +13,7 @@ Bandit Learning
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Robust Bandit Learning with Delegation</a>, will be presented at EC Online Learning and Economics Workshop 2025.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <<img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
 </details>
 
 <br />
@@ -26,7 +26,7 @@ Mechanism Design
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Matching and Pricing on a Tree</a>, will be presented at EC Poster 2025.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <<img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
 </details>
 
 <br />
