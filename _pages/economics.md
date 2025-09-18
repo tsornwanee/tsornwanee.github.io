@@ -64,6 +64,7 @@ Awards
 Talks & Presentations
 ======
 **2025**
+  - "SD-KDE: Score-Debiased Kernel Density Estimation" NeuRIPS 2025, San Diego, California & Mexico City, Mexico
   - "Approximately Correct Posterior Sampling for Inverse Problem with Diffusion" GSB Celebration of Scholarship, Stanford, California
   - "Aligning Rational Superintelligences through Debate: A Game-Theoretic Framework" EC 2025 Workshop, Human-AI Collaboration, Stanford, California
   - "Robust Bandit Learning with Delegation" EC 2025 Workshop, Online Learning and Economics, Stanford, California
