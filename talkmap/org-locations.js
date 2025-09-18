@@ -1,5 +1,4 @@
 var addressPoints = [
-  19.4326
   [
     "Mexico City, Mexico",
     19.4326,
