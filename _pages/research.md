@@ -23,7 +23,7 @@ Estimation & Inference
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">SD-KDE: Score-Debiased Kernel Density Estimation</a>, NeurIPS 2025.<br />
-Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki*, and Jerry Liu*.<br />
+Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki*, & Jerry Liu*.<br />
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
@@ -39,6 +39,18 @@ Social Learning
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
+</details>
+
+<br />
+
+Large Language \& Foundation Models
+======
+<details>
+  <summary>
+    <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval</a>, Best Paper at AAAI AIR-FM Workshop 2026.<br /><br />
+    Elliot Epstein, John Winnicki, <b>Thanawat Sornwanee</b>, & Rajat Dwaraknath.<br />
+  </summary>
+  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
 </details>
 
 <br />
