@@ -43,11 +43,11 @@ Social Learning
 
 <br />
 
-Large Language \& Foundation Models
+Large Language & Foundation Models
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval</a>, Best Paper at AAAI AIR-FM Workshop 2026.<br /><br />
+    <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval</a>, best paper award at AAAI AIR-FM Workshop 2026.<br /><br />
     Elliot Epstein, John Winnicki, <b>Thanawat Sornwanee</b>, & Rajat Dwaraknath.<br />
   </summary>
   <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
