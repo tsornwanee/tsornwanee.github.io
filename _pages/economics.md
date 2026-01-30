@@ -63,6 +63,10 @@ Awards
 
 Talks & Presentations
 ======
+
+**2026**
+  - "1-Dimensional Normal Competitive Market Equilibrium" Student Workshop-Theory Economics, Stanford, California
+
 **2025**
   - "SD-KDE: Score-Debiased Kernel Density Estimation" NeuRIPS 2025, San Diego, California
   - "Error Averaging in Backward Diffusion" Center for Decoding the Universe Quarterly Forum, Stanford, California
