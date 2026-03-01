@@ -65,6 +65,8 @@ Talks & Presentations
 ======
 
 **2026**
+  - "Matching the Mean: Informational Shrinkage in Crowdsourced Data Labelling" Market Design in the Age of AI Conference, Stanford, California
+  - "Who should Get Extra Reviews in the Age of AI" Market Design in the Age of AI Conference, Stanford, California
   - "1-Dimensional Normal Competitive Market Equilibrium" Student Workshop-Theory Economics, Stanford, California
 
 **2025**
