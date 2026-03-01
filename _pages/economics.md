@@ -44,15 +44,25 @@ Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki, a
 
 Teaching & Services
 ======
-Summer 2023: Workshop Assistant: [Stanford ICME Workshop, Data Visualization](https://tsornwanee.github.io/icme-data-visualization/)
 
-Autumn 2022: Teaching Assistant: [Stanford MS&E 339: Algorithms for Decntralized Finance](https://web.stanford.edu/~ashishg/msande339/)
+Reviewer:
+* [ICML 2026](https://icml.cc/Conferences/2026)
+* [ICLR Workshop 2026: AI for Mechanism Design and Strategic Decision Making](https://alimama-tech.github.io/aims-2026/)
+
+Teaching:
+* [2023 Workshop Assistant - Stanford ICME Workshop, Data Visualization](https://tsornwanee.github.io/icme-data-visualization/)
+* [2022 Teaching Assisant - Stanford MS&E 339: Algorithms for Decntralized Finance](https://web.stanford.edu/~ashishg/msande339/)
 
 Grading:
-* [Stanford MGTECON 200: Managerial Economics](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=MGTECON200)
-* [Stanford ECON 202: Microeconomics I](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=ECON202)
-* [Stanford MS&E 232: Introduction to Game Theory](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20232024&q=MS%26E232)
-* [Stanford EE 392F: Large-Scale Convex Optimization: Algorithms and Analyses via Monotone Operators](https://ernestryu.com/courses/lsopt.html)
+* [2025 Stanford MGTECON 200: Managerial Economics](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=MGTECON200)
+* [2024 Stanford ECON 202: Microeconomics I](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20242025&q=ECON202)
+* [2024 Stanford MS&E 232: Introduction to Game Theory](https://explorecourses.stanford.edu/search?view=catalog&academicYear=20232024&q=MS%26E232)
+* [2023 Stanford EE 392F: Large-Scale Convex Optimization: Algorithms and Analyses via Monotone Operators](https://ernestryu.com/courses/lsopt.html)
+
+Services:
+* [EC 2025 Virtual Session Chair](https://ec25.sigecom.org)
+* [Stanford VPGE Student & Postdoc Advisory Committee](https://vpge.stanford.edu/about-vpge/student-postdoc-advisory-committee)
+
 
 
 Awards
