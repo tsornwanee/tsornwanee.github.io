@@ -40,7 +40,7 @@ Optimization
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
+    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Unbiased Single-Queried Gradient for Combinatorial Objective</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   images/ESG.png
@@ -48,7 +48,7 @@ Optimization
 </details>
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2602.05119" style="text-decoration: none;">Unbiased Single-Queried Gradient for Combinatorial Objective</a><br />
+    <a href="https://arxiv.org/abs/2602.05119" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem" src="https://tsornwanee.github.io/images/effective_convolution.png" />
@@ -95,7 +95,7 @@ Competitive Analysis
     <a href="https://arxiv.org/abs/2505.08425" style="text-decoration: none;">1-Dimensional Normal Competitive Market Equilibrium</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="1-Dimensional Normal Competitive Market Equilibrium" src="https://tsornwanee.github.io/images/normalmarket.png" />
 </details>
 
 
