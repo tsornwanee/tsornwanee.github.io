@@ -7,9 +7,9 @@ author_profile: true
 
 Co-Authors
 ======
-**ICME**
-
-Elliot Epstein 
+- Rajat Dwaraknath (ICME PhD)
+- [Elliot Epstein](https://elliotepstein.net) (ICME PhD)
+- 
 <details>
   <summary>
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Matching and Pricing on a Tree</a>, presented at EC Poster 2025.<br />
