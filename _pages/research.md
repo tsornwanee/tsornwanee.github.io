@@ -12,14 +12,14 @@ Mechanism Design
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Very Credible Auction</a>, to be presented at ICLR AIMS Workshop 2026.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 <details>
   <summary>
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Matching and Pricing on a Tree</a>, presented at EC Poster 2025.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 
 <br />
@@ -50,7 +50,7 @@ Optimization
     <a href="https://arxiv.org/abs/2602.05119" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem" src="https://tsornwanee.github.io/images/effective_convolution.png" />
+  <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable" src="https://tsornwanee.github.io/images/effective_convolution.png" />
 </details>
 
 <br />
@@ -69,7 +69,7 @@ Large Language & Foundation Models
     <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval</a>, best paper award at AAAI AIR-FM Workshop 2026.<br />
     Elliot Epstein, Rajat Dwaraknath, John Winnicki, & <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval" src="https://tsornwanee.github.io/images/LUdistribution.png" />
+  <img width="274" alt="FermiEval" src="https://tsornwanee.github.io/images/LUdistribution.png" />
 </details>
 
 <br />
