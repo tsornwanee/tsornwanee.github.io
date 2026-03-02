@@ -63,6 +63,3 @@ fill="#000000" stroke="none">
 -33 100 2 27 24 33 37 37 85 6 76 -4 124 -33 153 -26 26 -30 27 -61 14z"/>
 </g>
 </svg>
-
-
-\**Author names in alphabetical order*
