@@ -19,9 +19,9 @@ Co-Authors
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME PhD)
 
 **Stanford Professors**
-- [Jose Blanchet](https://joseblanchet.com) (MS&E Professor)
-- [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance Professor)
-- [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS Professor)
+- [Jose Blanchet](https://joseblanchet.com) (MS&E)
+- [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance)
+- [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
 
 
 
