@@ -17,7 +17,7 @@ Co-Authors
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME PhD)
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance PhD)
 
-**Stanford Professors
+**Stanford Professors**
 - [Jose Blanchet](https://joseblanchet.com) (MS&E Professor)
 - [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance Professor)
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS Professor)
