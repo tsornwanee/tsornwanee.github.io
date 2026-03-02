@@ -62,7 +62,7 @@ Large Language & Foundation Models
     <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking</a>, to be presented at ICLR AIMS Workshop 2026.<br />
     Elliot Epstein, John Winnicki, <b>Thanawat Sornwanee</b>, & Rajat Dwaraknath.<br />
   </summary>
-  <img width="274" alt="Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking" src="https://tsornwanee.github.io/images/fig_full_vs_abstract_rho_100.pdf" />
+  <img width="274" alt="Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking" src="https://tsornwanee.github.io/images/fig_full_vs_abstract_rho_100.png" />
 </details>
 <details>
   <summary>
