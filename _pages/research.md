@@ -40,14 +40,14 @@ Machine Learning & Optimization
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Unbiased Single-Queried Gradient for Combinatorial Objective</a><br />
+    <a href="https://arxiv.org/abs/2602.05119" style="text-decoration: none;">Unbiased Single-Queried Gradient for Combinatorial Objective</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Unbiased Single-Queried Gradient for Combinatorial Objective" src="https://tsornwanee.github.io/images/ESG.png" />
 </details>
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2602.05119" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
+    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable" src="https://tsornwanee.github.io/images/effective_convolution.png" />
