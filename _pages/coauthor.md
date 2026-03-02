@@ -7,18 +7,21 @@ author_profile: true
 
 Co-Authors
 ======
-- Rajat Dwaraknath (ICME PhD)
+**Stanford Students**
+- [Rajat Dwaraknath](https://www.eigentales.com/about/) (ICME PhD)
 - [Elliot Epstein](https://elliotepstein.net) (ICME PhD)
-- 
-<details>
-  <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Matching and Pricing on a Tree</a>, presented at EC Poster 2025.<br />
-<b>Thanawat Sornwanee</b>.<br />
-  </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
-</details>
+- [Gabe Guo](https://gabeguo.github.io) (CS PhD)
+- [Lutong Hao](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lutong-hao) (MS&E PhD)
+- [Jerry Liu](https://jerrywliu.github.io) (ICME PhD)
+- [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME PhD)
+- [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME PhD)
+- [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance PhD)
 
-<br />
+**Stanford Professors
+- [Jose Blanchet](https://joseblanchet.com) (MS&E Professor)
+- [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance Professor)
+- [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS Professor)
+
 
 
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
