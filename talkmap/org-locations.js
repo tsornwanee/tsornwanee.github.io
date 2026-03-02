@@ -1,8 +1,13 @@
 var addressPoints = [
   [
-    "Mexico City, Mexico",
-    19.4326,
-    -99.1332
+    "Stanford CA, USA",
+    37.429924,
+    -122.1701
+  ],
+  [
+    "Stanford CA, USA",
+    37.4286,
+    -122.1658
   ],
   [
     "San Diego CA, USA",
@@ -11,13 +16,18 @@ var addressPoints = [
   ],
   [
     "Stanford CA, USA",
-    37.4277,
+    37.429924,
     -122.1701
   ],
   [
     "Stanford CA, USA",
-    37.4277,
-    -122.1701
+    37.4281,
+    -122.1612
+  ],
+  [
+    "Stanford CA, USA",
+    37.4307,
+    -122.1648
   ],
   [
     "Singapore, Singapore",
@@ -26,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Stanford CA, USA",
-    37.4277,
-    -122.1701
+    37.4278,
+    -122.1744
   ],
   [
     "Seattle WA, USA",
