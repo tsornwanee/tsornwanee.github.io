@@ -78,6 +78,9 @@ Talks & Presentations
   - "Matching the Mean: Informational Shrinkage in Crowdsourced Data Labelling" Market Design in the Age of AI Conference, Stanford, California
   - "Who should Get Extra Reviews in the Age of AI" Market Design in the Age of AI Conference, Stanford, California
   - "1-Dimensional Normal Competitive Market Equilibrium" Student Workshop-Theory Economics, Stanford, California
+  - (By Elliot Epstein) "Evaluating LLM Calibration on Confidence Intervals with FermiEval" AAAI 2026 Workshop, AI4Science: From Understanding Model Behavior to Discovering New Scientific Knowledge, Singapore
+  - (By Elliot Epstein) "LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval" AAAI 2026 Workshop, AIR-FM: Assessing and Improving Reliability of Foundation Models in the Real World, Singapore
+
 
 **2025**
   - "SD-KDE: Score-Debiased Kernel Density Estimation" NeuRIPS 2025, San Diego, California
