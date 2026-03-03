@@ -12,14 +12,14 @@ Mechanism Design
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Very Credible Auction</a>, to be presented at ICLR AIMS Workshop 2026.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 <details>
   <summary>
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Matching and Pricing on a Tree</a>, presented at EC Poster 2025.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 
 <br />
@@ -29,29 +29,28 @@ Estimation, Prediction, & Inference
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">SD-KDE: Score-Debiased Kernel Density Estimation</a>, NeurIPS 2025.<br />
-Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki*, & Jerry Liu*.<br />
+Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki*, Jerry Liu*.<br />
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
 
 <br />
 
-Optimization
+Machine Learning & Optimization
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Unbiased Single-Queried Gradient for Combinatorial Objective</a><br />
+    <a href="https://arxiv.org/abs/2602.05119" style="text-decoration: none;">Unbiased Single-Queried Gradient for Combinatorial Objective</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  images/ESG.png
   <img width="274" alt="Unbiased Single-Queried Gradient for Combinatorial Objective" src="https://tsornwanee.github.io/images/ESG.png" />
 </details>
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2602.05119" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
+    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem" src="https://tsornwanee.github.io/images/effective_convolution.png" />
+  <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable" src="https://tsornwanee.github.io/images/effective_convolution.png" />
 </details>
 
 <br />
@@ -61,16 +60,16 @@ Large Language & Foundation Models
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking</a>, to be presented at ICLR AIMS Workshop 2026.<br />
-    Elliot Epstein, John Winnicki, <b>Thanawat Sornwanee</b>, & Rajat Dwaraknath.<br />
+    Elliot Epstein, John Winnicki, <b>Thanawat Sornwanee</b>, Rajat Dwaraknath.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking" src="https://tsornwanee.github.io/images/fig_full_vs_abstract_rho_100.png" />
 </details>
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval</a>, best paper award at AAAI AIR-FM Workshop 2026.<br />
-    Elliot Epstein, Rajat Dwaraknath, John Winnicki, & <b>Thanawat Sornwanee</b>.<br />
+    Elliot Epstein, Rajat Dwaraknath, John Winnicki, <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://github.com/user-attachments/assets/2234695c-709f-4490-84ab-4713bf0a80cb" />
+  <img width="274" alt="FermiEval" src="https://tsornwanee.github.io/images/LUdistribution.png" />
 </details>
 
 <br />
