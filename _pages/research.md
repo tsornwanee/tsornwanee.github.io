@@ -55,7 +55,7 @@ Machine Learning & Optimization
 
 <br />
 
-Large Language & Foundation Models
+Large Language Model & Artificial Intelligence
 ======
 <details>
   <summary>
