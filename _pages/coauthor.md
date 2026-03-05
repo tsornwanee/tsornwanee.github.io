@@ -23,6 +23,9 @@ Co-Authors
 - [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance)
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
 
+**Non-Stanford**
+- [Cong Chen](https://congchenhappy.github.io/-/index.html) (Darthmouth Professor)
+
 
 
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
