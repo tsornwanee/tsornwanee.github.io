@@ -10,21 +10,21 @@ Co-Authors
 **Stanford Students**
 - [Rajat Dwaraknath](https://www.eigentales.com/about/) (ICME PhD)
 - [Elliot Epstein](https://elliotepstein.net) (ICME PhD)
-- [Gabe Guo](https://gabeguo.github.io) (CS PhD)
-- [Lutong Hao](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lutong-hao) (MS&E PhD)
+<!-- - [Gabe Guo](https://gabeguo.github.io) (CS PhD)
+- [Lutong Hao](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lutong-hao) (MS&E PhD) -->
 - [Jerry Liu](https://jerrywliu.github.io) (ICME PhD)
-- [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME PhD)
+<!-- - [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME PhD) -->
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance PhD)
 - [Lezhi Tan](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lezhi-tan-carrie) (MS&E PhD)
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME PhD)
 
 **Stanford Professors**
-- [Jose Blanchet](https://joseblanchet.com) (MS&E)
+<!-- - [Jose Blanchet](https://joseblanchet.com) (MS&E) -->
 - [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance)
-- [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
+<!-- - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS) -->
 
 **Non-Stanford**
-- [Cong Chen](https://congchenhappy.github.io/-/index.html) (Darthmouth Professor)
+<!-- - [Cong Chen](https://congchenhappy.github.io/-/index.html) (Darthmouth Professor) -->
 
 
 
