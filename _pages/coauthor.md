@@ -24,7 +24,6 @@ Co-Authors
 <!-- - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS) -->
 
 **Non-Stanford**
-<!-- - [Cong Chen](https://congchenhappy.github.io/-/index.html) (Darthmouth Professor) -->
 
 
 
