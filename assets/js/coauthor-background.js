@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
 
   /* Only run on the coauthor page */
- if (!window.location.pathname.startsWith("/coauthor/")) return;
+ if (!window.location.pathname.includes("coauthor")) return;
 
   /* Create background container */
   const container = document.createElement("div");
