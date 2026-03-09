@@ -14,13 +14,6 @@ Mechanism Design
   </summary>
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
-<details>
-  <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Matching and Pricing on a Tree</a>, presented at EC Poster 2025.<br />
-<b>Thanawat Sornwanee</b>.<br />
-  </summary>
-  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
-</details>
 
 <br />
 
