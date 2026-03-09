@@ -49,6 +49,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "/images/rajatdwaraknath.jpg"
   ];
 
+  alert('Meow');
+
   const balls = images.map((src, i) => {
     const ball = document.createElement("div");
     ball.className = "coauthor-ball";
