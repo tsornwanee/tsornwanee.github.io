@@ -38,9 +38,9 @@ document.addEventListener("DOMContentLoaded", function () {
   document.head.appendChild(style);
 
   const images = [
-    "/assets/images/johnwinnicki.jpg",
-    "/assets/images/annalyubarskaja.jpg",
-    "/assets/images/rajatdwaraknath.jpg"
+    "/images/johnwinnicki.jpg",
+    "/images/annalyubarskaja.jpg",
+    "/images/rajatdwaraknath.jpg"
   ];
 
   const balls = images.map(src => {
