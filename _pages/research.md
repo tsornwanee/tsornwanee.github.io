@@ -9,7 +9,15 @@ Mechanism Design
 ======
 <details>
   <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Very Credible Auction</a>, to be presented at ICLR AIMS Workshop 2026.<br />
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Tiering the remuneration of reserves</a>.<br />
+Darrell Duffie, <b>Thanawat Sornwanee</b>, Francesco Spizzuoco.<br />
+  </summary>
+  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
+</details>
+
+<details>
+  <summary>
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Very Credible Auction</a>, ICLR AIMS Workshop 2026.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
@@ -17,8 +25,16 @@ Mechanism Design
 
 <br />
 
-Estimation, Prediction, & Inference
+Estimation, Prediction, Inference & Hypothesis Testing
 ======
+<details>
+  <summary>
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Full Conformal Prediction under Stochastic Non-Conformity Measure</a>, AISTATS Calibration for Modern AI Workshop 2026.<br />
+<b>Thanawat Sornwanee</b>.<br />
+  </summary>
+  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
+</details>
+
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">SD-KDE: Score-Debiased Kernel Density Estimation</a>, NeurIPS 2025.<br />
