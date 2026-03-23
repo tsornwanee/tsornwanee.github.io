@@ -19,7 +19,7 @@ Darrell Duffie, <b>Thanawat Sornwanee</b>, Francesco Spizzuoco.<br />
 
 <details>
   <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Very Credible Auction</a>, ICLR AIMS Workshop 2026.<br />
+    <a href="https://openreview.net/forum?id=NxjdneGUZ8" style="text-decoration: none;">Very Credible Auction</a>, ICLR AIMS Workshop 2026.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
