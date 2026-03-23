@@ -2,10 +2,9 @@
 	"name": "Thanawat Sornwanee",
 	"icons": [
 		{
-			"src": "\/images\/site=logo.png?",
-			"sizes": "36x36",
-			"type": "image\/png",
-			"density": 1
+			"src": "/images/site-logo.png",
+			"sizes": "415x415",
+			"type": "image/png"
 		}
 	]
 }
