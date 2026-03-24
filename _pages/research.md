@@ -10,7 +10,7 @@ Mechanism Design
 <details>
   <summary>
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Tiering the Remuneration of Reserves</a>.<br />
-Darrell Duffie, <b>Thanawat Sornwanee</b>, Francesco Spizzuoco.<br />
+Darrell Duffie*, <b>Thanawat Sornwanee</b>*, Francesco Spizzuoco*.<br />
   </summary>
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
