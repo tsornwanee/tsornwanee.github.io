@@ -23,8 +23,6 @@ Darrell Duffie, <b>Thanawat Sornwanee</b>, Francesco Spizzuoco.<br />
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 
-<br />
-
 Estimation, Prediction, Inference & Hypothesis Testing
 ======
 <details>
@@ -42,8 +40,6 @@ Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki*, 
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
-
-<br />
 
 Machine Learning & Optimization
 ======
@@ -81,8 +77,6 @@ Large Language Model & Artificial Intelligence
   <img width="274" alt="FermiEval" src="https://tsornwanee.github.io/images/LUdistribution.png" />
 </details>
 
-<br />
-
 Social Learning
 ======
 
@@ -93,8 +87,6 @@ Social Learning
   </summary>
   <img width="274" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
 </details>
-
-<br />
 
 Competitive Analysis
 ======
