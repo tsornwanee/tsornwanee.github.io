@@ -15,8 +15,6 @@ Darrell Duffie, <b>Thanawat Sornwanee</b>, Francesco Spizzuoco.<br />
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 
-<br />
-
 <details>
   <summary>
     <a href="https://openreview.net/forum?id=NxjdneGUZ8" style="text-decoration: none;">Very Credible Auction</a>, ICLR AIMS Workshop 2026.<br />
@@ -36,8 +34,6 @@ Estimation, Prediction, Inference & Hypothesis Testing
   </summary>
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
-
-<br />
 
 <details>
   <summary>
@@ -59,8 +55,6 @@ Machine Learning & Optimization
   <img width="274" alt="Unbiased Single-Queried Gradient for Combinatorial Objective" src="https://tsornwanee.github.io/images/ESG.png" />
 </details>
 
-<br />
-
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a>, Note.<br />
@@ -68,8 +62,6 @@ Machine Learning & Optimization
   </summary>
   <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable" src="https://tsornwanee.github.io/images/effective_convolution.png" />
 </details>
-
-<br />
 
 Large Language Model & Artificial Intelligence
 ======
@@ -80,8 +72,6 @@ Large Language Model & Artificial Intelligence
   </summary>
   <img width="274" alt="Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking" src="https://tsornwanee.github.io/images/fig_full_vs_abstract_rho_100.png" />
 </details>
-
-<br />
 
 <details>
   <summary>
