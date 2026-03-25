@@ -9,23 +9,30 @@ Mechanism Design
 ======
 <details>
   <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Very Credible Auction</a>, to be presented at ICLR AIMS Workshop 2026.<br />
-<b>Thanawat Sornwanee</b>.<br />
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Tiering the Remuneration of Reserves</a>.<br />
+Darrell Duffie*, <b>Thanawat Sornwanee</b>*, Francesco Spizzuoco*.<br />
   </summary>
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
+
 <details>
   <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Matching and Pricing on a Tree</a>, presented at EC Poster 2025.<br />
+    <a href="https://openreview.net/forum?id=NxjdneGUZ8" style="text-decoration: none;">Very Credible Auction</a>, ICLR AIMS Workshop 2026.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 
-<br />
-
-Estimation, Prediction, & Inference
+Estimation, Prediction, Inference & Hypothesis Testing
 ======
+<details>
+  <summary>
+    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Full Conformal Prediction under Stochastic Non-Conformity Measure</a>, AISTATS Calibration for Modern AI Workshop 2026.<br />
+<b>Thanawat Sornwanee</b>.<br />
+  </summary>
+  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
+</details>
+
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2504.19084" style="text-decoration: none;">SD-KDE: Score-Debiased Kernel Density Estimation</a>, NeurIPS 2025.<br />
@@ -33,8 +40,6 @@ Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki*, 
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
-
-<br />
 
 Machine Learning & Optimization
 ======
@@ -45,25 +50,25 @@ Machine Learning & Optimization
   </summary>
   <img width="274" alt="Unbiased Single-Queried Gradient for Combinatorial Objective" src="https://tsornwanee.github.io/images/ESG.png" />
 </details>
+
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a><br />
+    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a>, Note.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable" src="https://tsornwanee.github.io/images/effective_convolution.png" />
 </details>
 
-<br />
-
 Large Language Model & Artificial Intelligence
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking</a>, to be presented at ICLR AIMS Workshop 2026.<br />
+    <a href="https://arxiv.org/abs/2602.06078" style="text-decoration: none;">Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking</a>, to be presented at ICLR AIMS Workshop 2026.<br />
     Elliot Epstein, John Winnicki, <b>Thanawat Sornwanee</b>, Rajat Dwaraknath.<br />
   </summary>
   <img width="274" alt="Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking" src="https://tsornwanee.github.io/images/fig_full_vs_abstract_rho_100.png" />
 </details>
+
 <details>
   <summary>
     <a href="https://arxiv.org/abs/2510.26995" style="text-decoration: none;">LLMs are Overconfident: Evaluating Confidence Interval Calibration with FermiEval</a>, best paper award at AAAI AIR-FM Workshop 2026.<br />
@@ -71,8 +76,6 @@ Large Language Model & Artificial Intelligence
   </summary>
   <img width="274" alt="FermiEval" src="https://tsornwanee.github.io/images/LUdistribution.png" />
 </details>
-
-<br />
 
 Social Learning
 ======
@@ -84,8 +87,6 @@ Social Learning
   </summary>
   <img width="274" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
 </details>
-
-<br />
 
 Competitive Analysis
 ======
