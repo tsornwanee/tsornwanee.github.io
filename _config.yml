@@ -16,7 +16,6 @@ url                      : https://tsornwanee.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsornwanee/tsornwanee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "site-logo.png"
 breadcrumbs              : false # true, false (default)
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts

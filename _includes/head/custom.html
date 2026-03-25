@@ -2,11 +2,10 @@
 
 <!-- start custom head snippets -->
 
-{% if site.logo %}
-<link rel="apple-touch-icon" href="{{ site.logo | prepend: "/images/" | prepend: base_path }}">
-<link rel="icon" type="image/png" href="{{ site.logo | prepend: "/images/" | prepend: base_path }}" sizes="415x415">
-<link rel="shortcut icon" href="{{ site.logo | prepend: "/images/" | prepend: base_path }}">
-{% endif %}
+<link rel="apple-touch-icon" href="{{ base_path }}/images/site-logo.png">
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/safari-pinned-tab.svg" sizes="any">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/site-logo.png" sizes="415x415">
+<link rel="shortcut icon" href="{{ base_path }}/images/site-logo.png">
 <link rel="manifest" href="{{ base_path }}/images/manifest.json">
 <link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg" color="#000000">
 <meta name="msapplication-TileColor" content="#000000">
