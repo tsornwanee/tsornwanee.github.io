@@ -15,7 +15,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
+  <div class="archive{% if page.url == '/coauthor/' %} archive--coauthor{% endif %}">
     {{ content }}
   </div>
 </div>

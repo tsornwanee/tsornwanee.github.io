@@ -265,78 +265,76 @@
    Coauthor page background
    ========================================================================== */
 
-@supports selector(.archive:has(h1#co-authors)) {
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) {
+.archive--coauthor {
+  position: relative;
+  isolation: isolate;
+
+  > * {
     position: relative;
-    isolation: isolate;
+    z-index: 1;
+  }
 
-    > * {
-      position: relative;
-      z-index: 1;
-    }
+  &::before,
+  &::after,
+  h1::after,
+  ul:first-of-type::after,
+  ul:last-of-type::after {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.08);
+    opacity: 0.12;
+    pointer-events: none;
+    will-change: transform;
+    z-index: 0;
+  }
 
-    &::before,
-    &::after,
-    h1::after,
-    ul:first-of-type::after,
-    ul:last-of-type::after {
-      content: "";
-      position: absolute;
-      border-radius: 50%;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      box-shadow: 0 16px 40px rgba(15, 23, 42, 0.08);
-      opacity: 0.12;
-      pointer-events: none;
-      will-change: transform;
-      z-index: 0;
-    }
+  &::before {
+    top: 1rem;
+    right: -10.5rem;
+    width: 11rem;
+    height: 11rem;
+    background-image: url("../../images/rajatdwaraknath.jpg");
+    animation: coauthor-drift-a 24s ease-in-out infinite;
+  }
 
-    &::before {
-      top: 1rem;
-      right: -10.5rem;
-      width: 11rem;
-      height: 11rem;
-      background-image: url("../../images/rajatdwaraknath.jpg");
-      animation: coauthor-drift-a 24s ease-in-out infinite;
-    }
+  &::after {
+    top: 14rem;
+    right: -5.5rem;
+    width: 7.25rem;
+    height: 7.25rem;
+    background-image: url("../../images/annalyubarskaja.jpg");
+    animation: coauthor-drift-b 20s ease-in-out infinite;
+  }
 
-    &::after {
-      top: 14rem;
-      right: -5.5rem;
-      width: 7.25rem;
-      height: 7.25rem;
-      background-image: url("../../images/annalyubarskaja.jpg");
-      animation: coauthor-drift-b 20s ease-in-out infinite;
-    }
+  h1::after {
+    top: -0.25rem;
+    right: -2.75rem;
+    width: 4.75rem;
+    height: 4.75rem;
+    background-image: url("../../images/johnwinnicki.jpg");
+    animation: coauthor-drift-c 18s ease-in-out infinite;
+  }
 
-    h1::after {
-      top: -0.25rem;
-      right: -2.75rem;
-      width: 4.75rem;
-      height: 4.75rem;
-      background-image: url("../../images/johnwinnicki.jpg");
-      animation: coauthor-drift-c 18s ease-in-out infinite;
-    }
+  ul:first-of-type::after {
+    top: 16rem;
+    right: -10rem;
+    width: 5.5rem;
+    height: 5.5rem;
+    background-image: url("../../images/johnwinnicki.jpg");
+    animation: coauthor-drift-d 22s ease-in-out infinite;
+  }
 
-    ul:first-of-type::after {
-      top: 16rem;
-      right: -10rem;
-      width: 5.5rem;
-      height: 5.5rem;
-      background-image: url("../../images/johnwinnicki.jpg");
-      animation: coauthor-drift-d 22s ease-in-out infinite;
-    }
-
-    ul:last-of-type::after {
-      bottom: -4rem;
-      right: 2rem;
-      width: 4.5rem;
-      height: 4.5rem;
-      background-image: url("../../images/annalyubarskaja.jpg");
-      animation: coauthor-drift-e 19s ease-in-out infinite;
-    }
+  ul:last-of-type::after {
+    bottom: -4rem;
+    right: 2rem;
+    width: 4.5rem;
+    height: 4.5rem;
+    background-image: url("../../images/annalyubarskaja.jpg");
+    animation: coauthor-drift-e 19s ease-in-out infinite;
   }
 }
 
@@ -431,26 +429,22 @@
 }
 
 @include breakpoint(max-width $small) {
-  @supports selector(.archive:has(h1#co-authors)) {
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::before,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::after,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::after {
-      display: none;
-    }
+  .archive--coauthor::before,
+  .archive--coauthor::after,
+  .archive--coauthor h1::after,
+  .archive--coauthor ul:first-of-type::after,
+  .archive--coauthor ul:last-of-type::after {
+    display: none;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  @supports selector(.archive:has(h1#co-authors)) {
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::before,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::after,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after,
-    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::after {
-      animation: none;
-    }
+  .archive--coauthor::before,
+  .archive--coauthor::after,
+  .archive--coauthor h1::after,
+  .archive--coauthor ul:first-of-type::after,
+  .archive--coauthor ul:last-of-type::after {
+    animation: none;
   }
 }
 
