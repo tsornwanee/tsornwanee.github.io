@@ -23,6 +23,8 @@ Darrell Duffie*, <b>Thanawat Sornwanee</b>*, Francesco Spizzuoco*.<br />
   <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
 </details>
 
+<br />
+
 Estimation, Prediction, Inference & Hypothesis Testing
 ======
 <details>
@@ -30,7 +32,7 @@ Estimation, Prediction, Inference & Hypothesis Testing
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Full Conformal Prediction under Stochastic Non-Conformity Measure</a>, AISTATS Calibration for Modern AI Workshop 2026.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
+  <img width="274" alt="CID" src="https://tsornwanee.github.io/images/CID.png" />
 </details>
 
 <details>
@@ -40,6 +42,8 @@ Elliot Epstein*, Rajat Dwaraknath*, <b>Thanawat Sornwanee</b>*, John Winnicki*, 
   </summary>
   <img width="274" alt="SDKDE" src="https://github.com/user-attachments/assets/a02717a9-5d88-4a20-970b-6a109891f0ed" />
 </details>
+
+<br />
 
 Machine Learning & Optimization
 ======
@@ -59,6 +63,8 @@ Machine Learning & Optimization
   <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable" src="https://tsornwanee.github.io/images/effective_convolution.png" />
 </details>
 
+<br />
+
 Large Language Model & Artificial Intelligence
 ======
 <details>
@@ -77,6 +83,8 @@ Large Language Model & Artificial Intelligence
   <img width="274" alt="FermiEval" src="https://tsornwanee.github.io/images/LUdistribution.png" />
 </details>
 
+<br />
+
 Social Learning
 ======
 
@@ -87,6 +95,8 @@ Social Learning
   </summary>
   <img width="274" alt="Reinforced Social Learning" src="https://github.com/user-attachments/assets/b2f307ee-d51d-4826-b82a-1a4ecc3ea740"/>
 </details>
+
+<br />
 
 Competitive Analysis
 ======
