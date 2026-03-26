@@ -2,7 +2,12 @@
 	"name": "Thanawat Sornwanee",
 	"icons": [
 		{
-			"src": "/images/site-logo.png",
+			"src": "/images/android-chrome-192x192.png?v=20260325b",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/site-logo.png?v=20260325b",
 			"sizes": "415x415",
 			"type": "image/png"
 		}
