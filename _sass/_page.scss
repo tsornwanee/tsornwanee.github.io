@@ -265,88 +265,79 @@
    Coauthor page background
    ========================================================================== */
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) {
-  position: relative;
-  overflow: hidden;
-  isolation: isolate;
-  background:
-    radial-gradient(circle at 8% 14%, rgba(195, 223, 255, 0.18), transparent 20rem),
-    radial-gradient(circle at 92% 18%, rgba(255, 221, 193, 0.16), transparent 18rem),
-    radial-gradient(circle at 82% 76%, rgba(214, 240, 227, 0.16), transparent 20rem);
-}
+@supports selector(.archive:has(h1#co-authors)) {
+  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) {
+    position: relative;
+    isolation: isolate;
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) > * {
-  position: relative;
-  z-index: 1;
-}
+    > * {
+      position: relative;
+      z-index: 1;
+    }
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1,
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul {
-  position: relative;
-}
+    &::before,
+    &::after,
+    h1::after,
+    ul:first-of-type::after,
+    ul:last-of-type::after {
+      content: "";
+      position: absolute;
+      border-radius: 50%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      box-shadow: 0 16px 40px rgba(15, 23, 42, 0.08);
+      opacity: 0.12;
+      pointer-events: none;
+      will-change: transform;
+      z-index: 0;
+    }
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::before,
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after,
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::before,
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after,
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::before {
-  content: "";
-  position: absolute;
-  border-radius: 50%;
-  overflow: hidden;
-  opacity: 0.16;
-  box-shadow: 0 18px 42px rgba(15, 23, 42, 0.08);
-  will-change: transform;
-  pointer-events: none;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: -1;
-}
+    &::before {
+      top: 1rem;
+      right: -10.5rem;
+      width: 11rem;
+      height: 11rem;
+      background-image: url("../../images/rajatdwaraknath.jpg");
+      animation: coauthor-float-a 24s ease-in-out infinite alternate;
+    }
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::before {
-  top: -0.5rem;
-  left: -4rem;
-  width: 8.5rem;
-  height: 8.5rem;
-  background-image: url("../../images/annalyubarskaja.jpg");
-  animation: coauthor-float-a 19s ease-in-out infinite alternate;
-}
+    &::after {
+      top: 14rem;
+      right: -5.5rem;
+      width: 7.25rem;
+      height: 7.25rem;
+      background-image: url("../../images/annalyubarskaja.jpg");
+      animation: coauthor-float-b 20s ease-in-out infinite alternate;
+    }
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after {
-  top: 1rem;
-  right: -5.5rem;
-  width: 7rem;
-  height: 7rem;
-  background-image: url("../../images/johnwinnicki.jpg");
-  animation: coauthor-float-b 23s ease-in-out infinite alternate;
-}
+    h1::after {
+      top: -0.25rem;
+      right: -2.75rem;
+      width: 4.75rem;
+      height: 4.75rem;
+      background-image: url("../../images/johnwinnicki.jpg");
+      animation: coauthor-float-c 18s ease-in-out infinite alternate;
+    }
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::before {
-  top: 5rem;
-  right: -4.75rem;
-  width: 10rem;
-  height: 10rem;
-  background-image: url("../../images/rajatdwaraknath.jpg");
-  animation: coauthor-float-c 25s ease-in-out infinite alternate;
-}
+    ul:first-of-type::after {
+      top: 16rem;
+      right: -10rem;
+      width: 5.5rem;
+      height: 5.5rem;
+      background-image: url("../../images/johnwinnicki.jpg");
+      animation: coauthor-float-b 22s ease-in-out infinite alternate-reverse;
+    }
 
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after {
-  top: 14rem;
-  left: -3rem;
-  width: 5.25rem;
-  height: 5.25rem;
-  background-image: url("../../images/annalyubarskaja.jpg");
-  animation: coauthor-float-d 20s ease-in-out infinite alternate;
-}
-
-.archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::before {
-  top: -0.75rem;
-  right: 18%;
-  width: 4.5rem;
-  height: 4.5rem;
-  background-image: url("../../images/johnwinnicki.jpg");
-  animation: coauthor-float-e 17s ease-in-out infinite alternate;
+    ul:last-of-type::after {
+      bottom: -4rem;
+      right: 2rem;
+      width: 4.5rem;
+      height: 4.5rem;
+      background-image: url("../../images/annalyubarskaja.jpg");
+      animation: coauthor-float-c 19s ease-in-out infinite alternate-reverse;
+    }
+  }
 }
 
 @keyframes coauthor-float-a {
@@ -354,10 +345,10 @@
     transform: translate3d(0, 0, 0) scale(1);
   }
   50% {
-    transform: translate3d(0.8rem, 1.2rem, 0) scale(1.03);
+    transform: translate3d(-0.8rem, 1rem, 0) scale(1.03);
   }
   100% {
-    transform: translate3d(-0.4rem, 2rem, 0) scale(0.97);
+    transform: translate3d(0.4rem, 2rem, 0) scale(0.98);
   }
 }
 
@@ -366,10 +357,10 @@
     transform: translate3d(0, 0, 0) scale(1);
   }
   50% {
-    transform: translate3d(-1rem, 0.8rem, 0) scale(1.05);
+    transform: translate3d(0.6rem, -0.7rem, 0) scale(1.04);
   }
   100% {
-    transform: translate3d(-0.25rem, 2rem, 0) scale(0.96);
+    transform: translate3d(-0.7rem, 1.2rem, 0) scale(0.97);
   }
 }
 
@@ -378,71 +369,34 @@
     transform: translate3d(0, 0, 0) scale(1);
   }
   50% {
-    transform: translate3d(-1.2rem, -1rem, 0) scale(1.04);
+    transform: translate3d(0.7rem, 0.8rem, 0) scale(1.05);
   }
   100% {
-    transform: translate3d(0.5rem, 1.1rem, 0) scale(0.98);
-  }
-}
-
-@keyframes coauthor-float-d {
-  0% {
-    transform: translate3d(0, 0, 0) scale(1);
-  }
-  50% {
-    transform: translate3d(0.7rem, -0.9rem, 0) scale(1.04);
-  }
-  100% {
-    transform: translate3d(-0.5rem, 1rem, 0) scale(0.97);
-  }
-}
-
-@keyframes coauthor-float-e {
-  0% {
-    transform: translate3d(0, 0, 0) scale(1);
-  }
-  50% {
-    transform: translate3d(0.9rem, 0.6rem, 0) scale(1.06);
-  }
-  100% {
-    transform: translate3d(-0.8rem, 1.2rem, 0) scale(0.95);
+    transform: translate3d(-0.9rem, 1.4rem, 0) scale(0.96);
   }
 }
 
 @include breakpoint(max-width $small) {
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after,
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::before {
-    display: none;
-  }
-
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::before {
-    left: -2.5rem;
-    width: 6.5rem;
-    height: 6.5rem;
-  }
-
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after {
-    top: 0.5rem;
-    right: -3.75rem;
-    width: 5.75rem;
-    height: 5.75rem;
-  }
-
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::before {
-    top: 9rem;
-    right: -3.5rem;
-    width: 7.5rem;
-    height: 7.5rem;
+  @supports selector(.archive:has(h1#co-authors)) {
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::before,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::after,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::after {
+      display: none;
+    }
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::before,
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after,
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::before,
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after,
-  .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::before {
-    animation: none;
+  @supports selector(.archive:has(h1#co-authors)) {
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::before,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"])::after,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) h1::after,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:first-of-type::after,
+    .archive:has(h1#co-authors):has(a[href="https://profiles.stanford.edu/john-winnicki"]) ul:last-of-type::after {
+      animation: none;
+    }
   }
 }
 
