@@ -26,7 +26,7 @@ Co-Authors
 
 **Non-Stanford**
 - [Cong Chen](https://congchenhappy.github.io/-/index.html) (Dartmouth Prof)
-- Jiwon Jang (USyd Undergrad)
+- [Jiwon Jang](https://www.linkedin.com/in/jiwon-jang-416868252/) (USyd Undergrad)
 
 
 
