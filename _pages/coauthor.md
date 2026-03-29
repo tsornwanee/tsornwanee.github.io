@@ -8,15 +8,15 @@ author_profile: true
 Co-Authors
 ======
 **Stanford Students**
-- [Rajat Dwaraknath](https://www.eigentales.com/about/) (ICME PhD)
-- [Elliot Epstein](https://elliotepstein.net) (ICME PhD)
-- [Gabe Guo](https://gabeguo.github.io) (CS PhD)
-- [Lutong Hao](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lutong-hao) (MS&E PhD)
-- [Jerry Liu](https://jerrywliu.github.io) (ICME PhD)
-- [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME PhD)
-- [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance PhD)
+- [Rajat Dwaraknath](https://www.eigentales.com/about/) (ICME)
+- [Elliot Epstein](https://elliotepstein.net) (ICME)
+- [Gabe Guo](https://gabeguo.github.io) (CS)
+- [Lutong Hao](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lutong-hao) (MS&E)
+- [Jerry Liu](https://jerrywliu.github.io) (ICME)
+- [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME)
+- [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance)
 - [Hannah Treehan](https://profiles.stanford.edu/235027) (MS&E MS)
-- [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME PhD)
+- [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME)
 - [Annika Younge](https://annikayounge.com) (Undergrad)
 
 **Stanford Professors**
@@ -68,4 +68,6 @@ fill="#000000" stroke="none">
 <path d="M2154 3270 c-47 -19 -64 -57 -64 -145 0 -68 4 -87 21 -109 27 -34 60
 -33 100 2 27 24 33 37 37 85 6 76 -4 124 -33 153 -26 26 -30 27 -61 14z"/>
 </g>
-</svg>
+</svg
+
+ \**Students are automatically PhD if not specified.*
