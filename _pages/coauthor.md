@@ -15,7 +15,9 @@ Co-Authors
 - [Jerry Liu](https://jerrywliu.github.io) (ICME PhD)
 - [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME PhD)
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance PhD)
+- [Hannah Treehan](https://profiles.stanford.edu/235027) (MS&E MS)
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME PhD)
+- [Annika Younge](https://annikayounge.com) (Undergrad)
 
 **Stanford Professors**
 - [Jose Blanchet](https://joseblanchet.com) (MS&E)
@@ -23,6 +25,8 @@ Co-Authors
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
 
 **Non-Stanford**
+- [Cong Chen](https://congchenhappy.github.io/-/index.html) (Dartmouth Prof)
+- Jiwon Jang (USyd Undergrad)
 
 
 
