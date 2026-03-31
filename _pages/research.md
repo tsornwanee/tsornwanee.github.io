@@ -25,7 +25,7 @@ Darrell Duffie*, <b>Thanawat Sornwanee</b>*, Francesco Spizzuoco*.<br />
 
 <br />
 
-Estimation, Prediction, Inference & Hypothesis Testing
+Estimation, Prediction, Inference & Testing
 ======
 <details>
   <summary>
@@ -65,7 +65,7 @@ Machine Learning & Optimization
 
 <br />
 
-Large Language Model & Artificial Intelligence
+LLM & AI Alignment
 ======
 <details>
   <summary>
