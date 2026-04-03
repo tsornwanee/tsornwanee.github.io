@@ -31,6 +31,8 @@ Co-Authors
 
 
 
+ \**Students are automatically PhD if not specified.*
+
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="415.000000pt" height="415.000000pt" viewBox="0 0 415.000000 415.000000"
  preserveAspectRatio="xMidYMid meet">
@@ -71,4 +73,4 @@ fill="#000000" stroke="none">
 </g>
 </svg
 
- \**Students are automatically PhD if not specified.*
+
