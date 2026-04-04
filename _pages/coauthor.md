@@ -28,7 +28,7 @@ Co-Authors
 - [Cong Chen](https://congchenhappy.github.io/-/index.html) (Dartmouth Prof)
 - [Jiwon Jang](https://www.linkedin.com/in/jiwon-jang-416868252/) (USyd Undergrad)
 - [Ruangrawee Kitichotkul](https://rkitichotkul.github.io) (Analog Devices)
-- [Shaoze Li](https://scholar.google.com/citations?user=SjVughEAAAAJ&hl=en&oi=ao) (Dartmouth)
+- [Shaoze Li](https://www.linkedin.com/in/shaoze-li-68a668309/) (Dartmouth)
 
 
 
