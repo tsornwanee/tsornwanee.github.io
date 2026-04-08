@@ -12,6 +12,7 @@ Co-Authors
 - [Elliot Epstein](https://elliotepstein.net) (ICME)
 - [Gabe Guo](https://gabeguo.github.io) (CS)
 - [Lutong Hao](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lutong-hao) (MS&E)
+- [Elon Litman](https://elonlit.com/about/) (Undergrad)
 - [Jerry Liu](https://jerrywliu.github.io) (ICME)
 - [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME)
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance)
