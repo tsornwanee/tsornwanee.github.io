@@ -39,7 +39,7 @@ Estimation, Prediction, Inference & Testing
 ======
 <details>
   <summary>
-    <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">Full Conformal Prediction under Stochastic Non-Conformity Measure</a>, AISTATS Calibration for Modern AI Workshop 2026.<br />
+    <a href="https://openreview.net/forum?id=dJfgWmjW83" style="text-decoration: none;">Full Conformal Prediction under Stochastic Non-Conformity Measure</a>, AISTATS Calibration for Modern AI Workshop 2026.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="CID" src="https://tsornwanee.github.io/images/CID.png" />
