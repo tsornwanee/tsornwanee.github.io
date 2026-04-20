@@ -25,14 +25,14 @@ Darrell Duffie*, <b>Thanawat Sornwanee</b>*, Francesco Spizzuoco*.<br />
 
 <br />
 
-Diffusion Models
+Diffusion
 ======
 <details>
   <summary>
     <a href="https://tsornwanee.github.io/placeholder/" style="text-decoration: none;">ABC: Any-Subset Autoregression via Non-Markov Diffusion Bridges in Continuous Space and Time</a>.<br />
 Gabe Guo, <b>Thanawat Sornwanee</b>, Lutong Hao, Elon Litman, Stefano Ermon, Jose Blanchet.<br />
   </summary>
-  <img width="274" alt="Ox" src="https://tsornwanee.github.io/images/Ox.png" />
+  <img width="274" alt="ABC" src="https://tsornwanee.github.io/images/ABC.gif" />
 </details>
 
 Estimation, Prediction, Inference & Testing
