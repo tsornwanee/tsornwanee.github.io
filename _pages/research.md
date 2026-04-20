@@ -35,6 +35,8 @@ Gabe Guo, <b>Thanawat Sornwanee</b>, Lutong Hao, Elon Litman, Stefano Ermon, Jos
   <img width="274" alt="ABC" src="https://tsornwanee.github.io/images/ABC.gif" />
 </details>
 
+<br />
+
 Estimation, Prediction, Inference & Testing
 ======
 <details>
