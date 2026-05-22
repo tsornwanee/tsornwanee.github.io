@@ -69,7 +69,7 @@ Machine Learning & Optimization
 
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a>, Note.<br />
+    <a href="https://arxiv.org/abs/2601.17800" style="text-decoration: none;">Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem</a>.<br />
 <b>Thanawat Sornwanee</b>.<br />
   </summary>
   <img width="274" alt="Differentiable Integer Linear Programming is not Differentiable" src="https://tsornwanee.github.io/images/effective_convolution.png" />
