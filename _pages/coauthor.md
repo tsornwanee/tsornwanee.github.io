@@ -11,14 +11,11 @@ Co-Authors
 - [Rajat Dwaraknath](https://www.eigentales.com/about/) (ICME)
 - [Elliot Epstein](https://elliotepstein.net) (ICME)
 - [Gabe Guo](https://gabeguo.github.io) (CS)
-- [Lutong Hao](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lutong-hao) (MS&E)
+- [Lutong Hao](https://lutong-hao.github.io) (MS&E)
 - [Elon Litman](https://elonlit.com/about/) (Undergrad)
 - [Jerry Liu](https://jerrywliu.github.io) (ICME)
-- [Anna Lyubarskaja](https://www.linkedin.com/in/annalyubarskaja/) (ICME)
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance)
-- [Hannah Treehan](https://profiles.stanford.edu/235027) (MS&E MS)
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME)
-- [Annika Younge](https://annikayounge.com) (Undergrad)
 
 **Stanford Professors**
 - [Jose Blanchet](https://joseblanchet.com) (MS&E)
@@ -26,10 +23,6 @@ Co-Authors
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
 
 **Non-Stanford**
-- [Cong Chen](https://congchenhappy.github.io/-/index.html) (Dartmouth Prof)
-- [Jiwon Jang](https://www.linkedin.com/in/jiwon-jang-416868252/) (USyd Undergrad)
-- [Ruangrawee Kitichotkul](https://rkitichotkul.github.io) (Analog Devices)
-- [Shaoze Li](https://www.linkedin.com/in/shaoze-li-68a668309/) (Dartmouth)
 
 
 
