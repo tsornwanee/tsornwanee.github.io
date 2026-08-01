@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "NeurIPS2026Workshop"
+title: "NeurIPS 2026 Workshop"
 permalink: /neurips2026workshop/
 author_profile: false
 ---
 
-**NeuRIPS 2026 Sydney, Australia**
+**NeurIPS 2026 Sydney, Australia**
 
 - [2nd Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks](https://sites.google.com/view/aaba4et), 29 August, 4 pages
 - [1st Africa in AI Workshop](https://africainai.mailab.io)
