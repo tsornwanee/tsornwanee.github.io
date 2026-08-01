@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "NeurIPS2026Workshop"
 permalink: /neurips2026workshop/
 author_profile: false
