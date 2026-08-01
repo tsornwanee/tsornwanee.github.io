@@ -2,7 +2,7 @@
 layout: archive
 title: "NeurIPS2026Workshop"
 permalink: /neurips2026workshop/
-author_profile: false
+author_profile: true
 ---
 
 **NeuRIPS 2026 Sydney, Australia**
