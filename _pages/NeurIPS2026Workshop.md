@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "NeurIPS2026Workshop"
-permalink: /NeurIPS2026Workshop/
+permalink: /neurIPS2026workshop/
 author_profile: false
 ---
 
