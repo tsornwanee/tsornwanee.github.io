@@ -29,7 +29,7 @@ Diffusion
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2604.27443" style="text-decoration: none;">ABC: Any-Subset Autoregression via Non-Markov Diffusion Bridges in Continuous Space and Time</a>.<br />
+    <a href="https://arxiv.org/abs/2604.27443" style="text-decoration: none;">ABC: Any-Subset Autoregression via Non-Markov Diffusion Bridges in Continuous Space and Time</a>, ICML SPIGM Workshop 2026 (Oral).<br />
 Gabe Guo, <b>Thanawat Sornwanee</b>, Lutong Hao, Elon Litman, Stefano Ermon, Jose Blanchet.<br />
   </summary>
   <img width="274" alt="ABC" src="https://tsornwanee.github.io/images/ABC.gif" />
