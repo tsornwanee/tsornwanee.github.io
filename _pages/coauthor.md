@@ -18,6 +18,7 @@ Co-Authors
 - [Jaewook Lee](https://jwlee-primal.com/index.html) (EE)
 - [Elon Litman](https://elonlit.com/about/) (Undergrad)
 - [Jerry Liu](https://jerrywliu.github.io) (ICME)
+- [Anna Lyubarskaja](https://rockefellercollege.princeton.edu/people/anna-lyubarskaja) (ICME)
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance)
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME)
 - [Chenghan Xie](https://chenghands-on.github.io) (MS&E)
@@ -26,6 +27,7 @@ Co-Authors
 - [Jose Blanchet](https://joseblanchet.com) (MS&E)
 - [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance)
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
+- [Lihua Lei](https://lihualei71.github.io) (GSB EAP)
 - [Renyuan Xu](https://renyuanxu.github.io) (MS&E)
 
 **Non-Stanford**
