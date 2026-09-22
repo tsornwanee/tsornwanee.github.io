@@ -8,21 +8,28 @@ author_profile: true
 Co-Authors
 ======
 **Stanford Students**
+- [Catherine Chen](https://catherineycchen.github.io) (ICME)
+- [Carole Darve](https://www.linkedin.com/in/carole-darve/) (Undergrad)
 - [Rajat Dwaraknath](https://www.eigentales.com/about/) (ICME)
 - [Elliot Epstein](https://elliotepstein.net) (ICME)
+- [Angikar Ghosal](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/angikar-ghosal) (GSB OB)
 - [Gabe Guo](https://gabeguo.github.io) (CS)
 - [Lutong Hao](https://lutong-hao.github.io) (MS&E)
+- [Jaewook Lee](https://jwlee-primal.com/index.html) (EE)
 - [Elon Litman](https://elonlit.com/about/) (Undergrad)
 - [Jerry Liu](https://jerrywliu.github.io) (ICME)
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance)
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME)
+- [Chenghan Xie](https://chenghands-on.github.io) (MS&E)
 
 **Stanford Professors**
 - [Jose Blanchet](https://joseblanchet.com) (MS&E)
 - [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance)
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
+- [Renyuan Xu](https://renyuanxu.github.io) (MS&E)
 
 **Non-Stanford**
+- [Benjamin Shih](https://benjamin-shih.github.io) (Perpetual Labs)
 
 
 
