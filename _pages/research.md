@@ -29,7 +29,7 @@ Diffusion
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2604.27443" style="text-decoration: none;">ABC: Any-Subset Autoregression via Non-Markov Diffusion Bridges in Continuous Space and Time</a>, ICML SPIGM Workshop 2026 (Oral).<br />
+    <a href="https://arxiv.org/abs/2604.27443" style="text-decoration: none;">ABC: Any-Subset Autoregression via Non-Markov Diffusion Bridges in Continuous Space and Time</a>, NeurIPS 2026.<br />
 Gabe Guo, <b>Thanawat Sornwanee</b>, Lutong Hao, Elon Litman, Stefano Ermon, Jose Blanchet.<br />
   </summary>
   <img width="274" alt="ABC" src="https://tsornwanee.github.io/images/ABC.gif" />
@@ -89,7 +89,7 @@ LLM & AI Alignment
 ======
 <details>
   <summary>
-    <a href="https://arxiv.org/abs/2602.06078" style="text-decoration: none;">Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking</a>, ICLR AIMS Workshop 2026.<br />
+    <a href="https://arxiv.org/abs/2602.06078" style="text-decoration: none;">Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking</a>, NeurIPS Position 2026.<br />
     Elliot Epstein, John Winnicki, <b>Thanawat Sornwanee</b>, Rajat Dwaraknath.<br />
   </summary>
   <img width="274" alt="Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking" src="https://tsornwanee.github.io/images/fig_full_vs_abstract_rho_100.png" />
