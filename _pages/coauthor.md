@@ -34,7 +34,6 @@ Co-Authors
 - [Renyuan Xu](https://renyuanxu.github.io) (MS&E)
 
 **Non-Stanford**
-- 
 
 
 
