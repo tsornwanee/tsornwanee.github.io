@@ -18,6 +18,7 @@ Co-Authors
 - [Gabe Guo](https://gabeguo.github.io) (CS)
 - [Lutong Hao](https://lutong-hao.github.io) (MS&E)
 - [Morteza Honarvar](https://tsornwanee.github.io) (GSB EAP)
+- [Minseo Kim](https://tsornwanee.github.io) (EE)
 - [Chanjoo Lee](https://tsornwanee.github.io) (GSB PE)
 - [Jaewook Lee](https://jwlee-primal.com/index.html) (EE)
 - [Elon Litman](https://elonlit.com/about/) (Undergrad)
