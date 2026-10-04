@@ -18,10 +18,13 @@ Co-Authors
 - [Jaewook Lee](https://jwlee-primal.com/index.html) (EE)
 - [Elon Litman](https://elonlit.com/about/) (Undergrad)
 - [Jerry Liu](https://jerrywliu.github.io) (ICME)
+- [Luna Lyu](https://www.linkedin.com/in/luna-lyu-20576b2a9) (ICME)
 - [Anna Lyubarskaja](https://rockefellercollege.princeton.edu/people/anna-lyubarskaja) (ICME)
 - [Francesco Spizzuoco](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/francesco-spizzuoco) (GSB Finance)
+- [Lezhi Tan](https://msande.stanford.edu/research-impact/stories-voices/students/student-spotlight-lezhi-tan-carrie) (MS&E)
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME)
 - [Chenghan Xie](https://chenghands-on.github.io) (MS&E)
+- [Wenqian Xing](https://wenqian-xing.github.io) (MS&E)
 
 **Stanford Professors**
 - [Jose Blanchet](https://joseblanchet.com) (MS&E)
