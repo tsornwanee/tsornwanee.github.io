@@ -34,7 +34,7 @@ Co-Authors
 - [Renyuan Xu](https://renyuanxu.github.io) (MS&E)
 
 **Non-Stanford**
-- [Benjamin Shih](https://benjamin-shih.github.io) (Perpetual Labs)
+- 
 
 
 
