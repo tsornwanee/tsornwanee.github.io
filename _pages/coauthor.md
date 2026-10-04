@@ -8,13 +8,17 @@ author_profile: true
 Co-Authors
 ======
 **Stanford Students**
+- [Miguel Borrero](https://tsornwanee.github.io) (ECON)
 - [Catherine Chen](https://catherineycchen.github.io) (ICME)
+- [Joice Chen](https://tsornwanee.github.io) (GSB OB)
 - [Carole Darve](https://www.linkedin.com/in/carole-darve/) (Undergrad)
 - [Rajat Dwaraknath](https://www.eigentales.com/about/) (ICME)
 - [Elliot Epstein](https://elliotepstein.net) (ICME)
 - [Angikar Ghosal](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/angikar-ghosal) (GSB OB)
 - [Gabe Guo](https://gabeguo.github.io) (CS)
 - [Lutong Hao](https://lutong-hao.github.io) (MS&E)
+- [Morteza Honarvar](https://tsornwanee.github.io) (GSB EAP)
+- [Chanjoo Lee](https://tsornwanee.github.io) (GSB PE)
 - [Jaewook Lee](https://jwlee-primal.com/index.html) (EE)
 - [Elon Litman](https://elonlit.com/about/) (Undergrad)
 - [Jerry Liu](https://jerrywliu.github.io) (ICME)
@@ -25,16 +29,27 @@ Co-Authors
 - [John Winnicki](https://profiles.stanford.edu/john-winnicki) (ICME)
 - [Chenghan Xie](https://chenghands-on.github.io) (MS&E)
 - [Wenqian Xing](https://wenqian-xing.github.io) (MS&E)
+- [Mingwei Yang](https://tsornwanee.github.io) (MS&E)
+- [Wenyi Yin](https://tsornwanee.github.io) (ECON)
+- [Carine You](https://tsornwanee.github.io) (GSB EAP)
+- [Annika Younge](https://tsornwanee.github.io) (MS&E)
 
 **Stanford Professors**
 - [Jose Blanchet](https://joseblanchet.com) (MS&E)
 - [Darrell Duffie](https://www.darrellduffie.com) (GSB Finance)
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) (CS)
 - [Lihua Lei](https://lihualei71.github.io) (GSB EAP)
+- [Shoshana Vasserman](https://tsornwanee.github.io) (GSB EAP)
 - [Renyuan Xu](https://renyuanxu.github.io) (MS&E)
-
+- [Jeffrey Zwiebel](https://tsornwanee.github.io) (GSB Finance)
+  
 **Non-Stanford**
-
+- [Cong Chen](https://tsornwanee.github.io) (Dartmouth, Prof)
+- [Xuchen Gong](https://tsornwanee.github.io) (UChicago, PhD)
+- [Ruangrawee Kitichotkul](https://tsornwanee.github.io) (Analog Devices, ML)
+- [Rebecca Liu](https://tsornwanee.github.io) (NUS, PhD)
+- [Benjamin Shih](https://tsornwanee.github.io) (Perpetual Labs, AI)
+- [Sophie Yu](https://tsornwanee.github.io) (Wharton, Prof)
 
 
  \**Students are automatically PhD if not specified.*
