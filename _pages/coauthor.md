@@ -47,6 +47,7 @@ Co-Authors
 **Non-Stanford**
 - [Cong Chen](https://tsornwanee.github.io) (Dartmouth, Prof)
 - [Xuchen Gong](https://tsornwanee.github.io) (UChicago, PhD)
+- [Connie Hong](https://tsornwanee.github.io) (UMD, PhD)
 - [Ruangrawee Kitichotkul](https://tsornwanee.github.io) (Analog Devices, ML)
 - [Rebecca Liu](https://tsornwanee.github.io) (NUS, PhD)
 - [Benjamin Shih](https://tsornwanee.github.io) (Perpetual Labs, AI)
